@@ -2,10 +2,10 @@
 
 import java.io.*;
 
-class GFG {
+class RemoveWhiteSpaces {
 	public static void main (String[] args) {
-String s="Shruti Jain";
-s=s.replace(" ","");
-System.out.println(s);
-}
+	String s="Shruti Jain";
+	s=s.replace(" ","");
+	System.out.println(s);
+	}
 }
